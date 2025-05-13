@@ -5,7 +5,6 @@ Repository for the Database II course. All assignments related to the subject, a
 Paola Andrea Cuellar Beltran    -   201910201
 
 Johan David Ebratt saenz        -   20191020126
-Johan David Ebratt saenz        -   20191020126
 
 ## Proyect Sections
 
